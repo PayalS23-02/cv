@@ -21,7 +21,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/hardik0903/CV_proj.git
+   git clone https://github.com/PayalS23-02/CV_proj.git
    cd CV_proj
    ```
 
